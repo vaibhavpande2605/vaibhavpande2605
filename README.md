@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I'm Vaibhav Pande 👋
 
-<!--
-**vaibhavpande2605/vaibhavpande2605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on to increase my knowledge in full stack web developement
+- 🌱 I’m currently learning MERN Stack(MongoDB,ExpressJs,ReactJs,NodeJs)
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with my friends to share my knowledge and gain knowledge from them
+- 💬 Ask me about Web developemt and CPP
+- 📫 How to reach me: https://www.linkedin.com/in/vaibhavpande2605/ ,vaibhavpande194@gmail.com , https://www.instagram.com/vaibhavapande/
+- 😄 Pronouns: Vaibhav
+- ⚡ Fun fact: I am so funny
+
