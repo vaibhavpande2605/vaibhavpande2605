@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with my friends to share my knowledge and gain knowledge from them
 - 💬 Ask me about Web developemt and CPP
-- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/vaibhavpande2605/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vaibhavpande2605/) ,[Instagram](https://www.instagram.com/vaibhavapande/),[Twitter](https://twitter.com/Vaibhav30827869)
 - 😄 Pronouns: Vaibhav
 - ⚡ Fun fact: I am so funny
 
